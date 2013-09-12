@@ -1,7 +1,7 @@
 # Rails Demo App
 
-### Learning Model View Controller architecture
-- modeling users
-- modeling microposts
+## Topics & Techniques
 
-### Digging into the REST architecture favored by Rails
+### REST principles and architecture
+- HTTP request methods
+- CRUD operations of relational databases
